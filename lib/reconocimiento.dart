@@ -379,7 +379,8 @@ class _reconocimiento extends State<reconocimiento> {
                   margin: EdgeInsets.only(top: 5.0),
                   child: SingleChildScrollView(
                     child: Text(
-                      result + _respserv,
+                      //result + _respserv,
+                      "",
                       //verurl + _respserv + entro + res,
                       style: TextStyle(
                         backgroundColor: Colors.black87,
